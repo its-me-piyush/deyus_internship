@@ -1,16 +1,44 @@
-# deyus_internship
+<p align="center">
+  <a href="https://flutter.io/">
+    <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Logo" width=100>
+  </a>
 
-A new Flutter project.
+  <h3 align="center">Deyus Internship App</h3>
 
-## Getting Started
+  <p align="center">
+    A simple App with Flutter as an Internship assignment,
+    <br>
+    Made with :heart: 
+    <br>
+    <br>
+    <a href="https://github.com/zsiecr/deyus_internship/issues/new">Report bug</a>
+    ·
+    <a href="https://github.com/zsiecr/deyus_internship/issues/new">Request feature</a>
+  </p>
+</p>
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/85029306/185827741-040ae574-ba1d-4048-8bca-612e4febe3c9.mp4
 
-A few resources to get you started if this is your first Flutter project:
+## Table of contents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Quick start](#quick-start)
+- [Contributing](#contributing)
+- [Thanks](#thanks)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Quick start
+
+This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
+
+## Contributing
+
+Have a bug or a feature request? Please follow through a general contributing guidline and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/zsiecr/deyus_internship/issues/new).
+
+Maintained by [Piyush Nagpal](https://github.com/zsiecr).
+
+
+## Thanks
+
+Thanks to all contributors and their support:
+
+Enjoy :metal:
